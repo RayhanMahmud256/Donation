@@ -1,0 +1,148 @@
+.nav-text {
+    margin-left: 30px;
+}
+
+.blue-button {
+    width: 120px;
+    height: 40px;
+
+    background: #1A8FE3;
+    border-radius: 20px;
+
+    /* font-family: 'Plus Jakarta Sans'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+.h1-text {
+    margin-top: 190px;
+    width: 653px;
+    height: 464px;
+    left: 101px;
+    top: 340px;
+
+    /* font-family: 'Plus Jakarta Sans'; */
+    font-style: normal;
+    font-weight: 650;
+    font-size: 70px;
+    line-height: 88px;
+    align-items: center;
+    letter-spacing: 0.01em;
+
+    color: #353535;
+}
+
+.donation-now {
+    box-sizing: border-box;
+    position: absolute;
+    width: 150px;
+    height: 42px;
+    left: 110px;
+    top: 560px;
+    color: white;
+    background: #1A8FE3;
+    border-radius: 50px;
+}
+
+
+.sign-in {
+    width: 120px;
+    height: 40px;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid rgba(26, 143, 227, 0.5);
+    /* box-shadow: 2px 2px 65px rgba(0, 0, 0, 0.16); */
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #1A8FE3;
+    border-radius: 20px;
+}
+
+#donatebtn {
+    margin-top: 0;
+}
+
+.box {
+    height: 400px;
+    width: 370px;
+    border: 2px solid rgba(26, 143, 227, 0.5);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px #aaaaaa;
+    position: relative;
+    margin-top: -40%;
+    margin-left: 65%;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+
+.button1{
+     position: relative;
+     top: 10px;
+     right: 10px;
+}
+
+.weekly{
+    padding: 6px 28px;
+}
+
+.Onetime{
+    padding: 6px 25px;
+}
+
+.button2{
+    position: relative;
+    top: 30px;
+    right: 25px;
+}
+
+.bt{
+   box-shadow: 3px 3px 3px #aaaaaa;
+   margin: 5px;
+   background: rgb(236, 232, 232);
+   padding: 5px 16px;
+}
+
+.bt1{
+    box-shadow: 3px 3px 3px #aaaaaa;
+    margin: 5px;
+    background: rgb(236, 232, 232);
+    padding: 5px 13px;
+ }
+ 
+ .bt2{
+    box-shadow: 3px 3px 3px #aaaaaa;
+    margin: 5px;
+    background: rgb(236, 232, 232);
+    padding: 5px 10px;
+ }
+
+ .input{
+    position: relative;
+    top: 50px;
+    right: 35px;
+    text-decoration: solid rgba(26, 143, 227, 0.5);
+    border: 2px solid rgba(26, 143, 227, 0.5);
+    border-radius: 7px;
+ }
+
+ .submit{
+    position: relative;
+    top: 80px;
+    left: 25px;
+ }
+
+ .btnd{
+    padding: 10px 40px;
+    border-radius: 10px;
+ }
+ 
+
